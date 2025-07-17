@@ -49,3 +49,14 @@ I created this portfolio to:
 
 ---
 
+## 📁 Project Structure
+
+shraddha_Portfolio/
+├── index.html
+├── Shraddha_Wathore_Resume.pdf
+├── assets/
+│ ├── profile.jpg
+│ ├── proj1.jpg
+│ ├── proj2.jpg
+│ └── proj3.jpg
+├── README.md
