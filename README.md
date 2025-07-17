@@ -16,7 +16,6 @@ It's built using modern front-end tools and optimized for **responsive design**,
 ## 🔗 Live Preview
 
 👉 [Check out the live site here](https://your-username.github.io/portfolio)  
-*(Replace this with your actual GitHub Pages URL)*
 
 ---
 
